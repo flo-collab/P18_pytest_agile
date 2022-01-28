@@ -6,3 +6,4 @@ requirements copy.txt
 pickels_tensors
 Dockerfile
 .pytest_cache
+.pt
